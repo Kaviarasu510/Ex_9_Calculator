@@ -24,8 +24,8 @@ Step 7: Save and run the application.
 /*
 ```
 Program to print the text “calculator operation”.
-Developed by: George Paul Tony.C
-Registeration Number :212222040043
+Developed by: Kaviyarasu K
+Register Number : 212222040075
 ```
 */
 ## activity_main.xml:
